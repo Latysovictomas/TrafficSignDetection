@@ -1,0 +1,5 @@
+﻿traffic_sign,mAP_score,last_mAP_score
+danger,0.2396,0.1902
+mandatory,0.1734,0.1073
+other,0.1032,0.06158
+prohibitory,0.2604,0.1766

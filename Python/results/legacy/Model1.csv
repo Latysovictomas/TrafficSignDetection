@@ -1,0 +1,44 @@
+﻿traffic_sign,mAP_score
+animals,-1
+bend,-1
+bend left,-1
+bend right,0
+construction,0.1402
+cycles crossing,0
+danger,0.3033
+give way,0.2738
+go left,0
+go left or straight,0
+go right,0.1448
+go right or straight,0
+go straight,0.01202
+keep left,0
+keep right,0.2967
+no entry,0.188
+no overtaking,0.4657
+no overtaking trucks,0.2923
+no traffic both ways,0.3773
+no trucks,0.2694
+pedestrian crossing,0
+priority at next intersection,0.2694
+priority road,0.3337
+restriction ends,0.4914
+restriction ends 80,0.1814
+restriction ends overtaking,0
+restriction ends overtaking trucks,0
+road narrows,0.35
+roundabout,0.03847
+school crossing,0.0976
+slippery road,0
+snow,0.4115
+speed limit 20,0.0505
+speed limit 30,0.3482
+speed limit 50,0.1232
+speed limit 60,0.09251
+speed limit 70,0.4539
+speed limit 80,0.1713
+speed limit 100,0.3271
+speed limit 120,0.1945
+stop,0.3393
+traffic signal,0
+uneven road,0.08703

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fps"
+        android:title="FPS"
+        app:actionViewClass="android.widget.ToggleButton"
+        app:showAsAction="always"
+         />
+
+
+    <item
+        android:id="@+id/sound"
+        android:title="Sound"/>
+
+    <item
+        android:id="@+id/threads"
+        android:title="Threads">
+
+        <menu>
+            <group android:checkableBehavior="single">
+            <item android:id="@+id/One"
+                android:title="1"
+                >
+        </item>
+                <item android:id="@+id/Two"
+                    android:title="2"
+                    >
+                </item>
+                <item android:id="@+id/Three"
+                    android:title="3"
+                    >
+                </item>
+                <item android:id="@+id/Four"
+                    android:title="4"
+                    >
+                </item>
+            </group>
+    </menu>
+</item>
+
+
+</menu>
